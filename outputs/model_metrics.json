@@ -1,0 +1,13 @@
+{
+    "accuracy": 0.7766589779985805,
+    "precision": 0.9685171833693823,
+    "recall": 0.6280682615132861,
+    "f1_score": 0.7619948002836209,
+    "roc_auc": 0.9611439622466351,
+    "training_seconds": 26.43,
+    "training_rows": 125973,
+    "testing_rows": 22544,
+    "feature_count_before_encoding": 41,
+    "model_name": "Random Forest",
+    "random_state": 42
+}
